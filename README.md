@@ -34,9 +34,9 @@ II) Goal Planning
 
 Financial goal-planning refers to setting financial goals and developing plans to achieve them. The module implemented in the website takes into account a broad classification of goals based on their expected time frame into 3 categories:
 
-a) Short Term Goals
-b) Medium Term Goals
-c) Long Term Goals
+a) Short Term Goals <br/>
+b) Medium Term Goals <br/>
+c) Long Term Goals <br/>
 
 ![Screenshot (1073)](https://user-images.githubusercontent.com/85440675/194929287-7adcec58-2843-48b5-bc17-422aa694b092.png)
 
