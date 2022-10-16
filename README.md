@@ -20,11 +20,11 @@ I) Portfolio Diversification
 
 The functionality of portfolio diversification is provided to implement the process of investing your money in different asset classes and securities in order to minimize the overall risk of the portfolio. To increase the personalized aspect of the financial planner, the module also takes into account the risk profile of each individual user, in the form of preference or focus (expressed as percentages) that the user wants to give to 5 different categories of financial planning, namely: 
 
-a) Long term personal and professional goals
-b) Short term personal and professional goals 
-c) Security Funds and Emergency Planning 
-d) Volatile Investments for short-term gains 
-e) Low-Risk Investment for continuous returns
+a) Long term personal and professional goals <br/>
+b) Short term personal and professional goals <br/>
+c) Security Funds and Emergency Planning <br/>
+d) Volatile Investments for short-term gains <br/>
+e) Low-Risk Investment for continuous returns <br/>
 
 
 ![Screenshot (1072)](https://user-images.githubusercontent.com/85440675/194923792-c1d672fe-8688-4779-bb0b-7188790deb57.png)
