@@ -1,7 +1,8 @@
 # <h1 align="center">Finterest ![WebsiteLogo-1-1 (2)](https://user-images.githubusercontent.com/85440675/194927739-00685484-0dd3-443d-903b-2d6ea74217cf.png)</h1> 
 
 Objective
-As several gaps were found in the market survey related to personal and professional, the main objective of the project was intended as the creation of a multi-functional, yet simple to use personal financial planner catering to every individual’s needs.
+
+India, our proud motherland, is home to almost one-fifth of the world population, yet, according to recent surveys, only about 24 per cent of people in the country are financially literate. As several gaps were found in the market survey related to personal financial planning, the main objective of the project was intended as the creation of a multi-functional, yet simple to use personal financial planner catering to every individual’s needs.
 
 Scope of Project
 
@@ -17,12 +18,11 @@ Project Deliverables:
 
 I) Portfolio Diversification
 
-The functionality of portfolio diversification is provided to implement the process of investing your money in different asset classes and securities in order to minimize the overall risk of the portfolio.
-To increase the personalized aspect of the financial planner, the module also takes into account the risk profile of each individual user, in the form of preference or focus (expressed as percentages) that the user wants to give to 5 different categories of financial planning, namely:
+The functionality of portfolio diversification is provided to implement the process of investing your money in different asset classes and securities in order to minimize the overall risk of the portfolio. To increase the personalized aspect of the financial planner, the module also takes into account the risk profile of each individual user, in the form of preference or focus (expressed as percentages) that the user wants to give to 5 different categories of financial planning, namely: 
 a) Long term personal and professional goals
-b) Short term personal and professional goals
-c) Security Funds and Emergency Planning
-d) Volatile Investments for short-term gains
+b) Short term personal and professional goals 
+c) Security Funds and Emergency Planning 
+d) Volatile Investments for short-term gains 
 e) Low-Risk Investment for continuous returns
 
 
@@ -42,7 +42,13 @@ III) SIP Calculator
 A Systematic Investment Plan (SIP) is an investment tool which allows the investor to invest a fixed amount at regular intervals in a Mutual Fund scheme. SIP works by investing a fixed amount at a defined frequency.
 
 
-The Front-End is implemented using HTML to build the skeleton of website and CSS to beautify the pages and JS to make pages interactive and AJAX is used for Multi-Step form. With the help of the Mulit-Step Form only information details are fetched from the user for generating the report.
+Implementation Details and Technologies:
 
-The data fetched from the webpage is stored on the cloud for further processing and storage. This is achieved by interfacing the webpage with google sheets via a predefined google form .All the calculations required for generating the output values are performed automatically as each column has been defined with a specific formula. The report generated is customized for each client using a template report having placeholders.Using the Appscript of the concerned google sheet , a function is written to populate the template report with values for the recently inserted record. Also a button is created on the sheet to "Generate Pdf" which when clicked triggers the function defined in the AppScript. The report pdf is then mailed to the client.
+The Front-End is implemented using HTML to build the skeleton of website and CSS to beautify the pages and JS to make pages interactive and AJAX is used for Multi-Step form. With the help of the Multi-Step Form, user information details are fetched stagewise for generating the report.
+
+The data fetched from the webpage is then stored on the cloud for further processing and storage. This is achieved by interfacing the webpage with google sheets via a predefined google form. All the calculations required for generating the output values are performed automatically as each column has been defined with a specific formula. The report generated is customized for each client using a template having placeholders.
+
+Using the AppScript of the concerned google sheet, a function is written to populate the template report with values for the recently inserted record. The "Generate Pdf" button can thus be clicked which triggers the function defined in the AppScript to generate a personalised financial report. The report pdf is then mailed to the client.
+
+Check out "Sample_Report.pdf" for a definitive example!
 
