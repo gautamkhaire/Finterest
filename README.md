@@ -19,6 +19,7 @@ Project Deliverables:
 I) Portfolio Diversification
 
 The functionality of portfolio diversification is provided to implement the process of investing your money in different asset classes and securities in order to minimize the overall risk of the portfolio. To increase the personalized aspect of the financial planner, the module also takes into account the risk profile of each individual user, in the form of preference or focus (expressed as percentages) that the user wants to give to 5 different categories of financial planning, namely: 
+
 a) Long term personal and professional goals
 b) Short term personal and professional goals 
 c) Security Funds and Emergency Planning 
@@ -30,7 +31,9 @@ e) Low-Risk Investment for continuous returns
 
 
 II) Goal Planning
+
 Financial goal-planning refers to setting financial goals and developing plans to achieve them. The module implemented in the website takes into account a broad classification of goals based on their expected time frame into 3 categories:
+
 a) Short Term Goals
 b) Medium Term Goals
 c) Long Term Goals
@@ -39,6 +42,7 @@ c) Long Term Goals
 
 
 III) SIP Calculator
+
 A Systematic Investment Plan (SIP) is an investment tool which allows the investor to invest a fixed amount at regular intervals in a Mutual Fund scheme. SIP works by investing a fixed amount at a defined frequency.
 
 
